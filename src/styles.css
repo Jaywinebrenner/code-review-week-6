@@ -1,0 +1,63 @@
+
+h1{
+  text-align: right;
+  font-size: 3.5rem;
+  margin-right: 20px;
+}
+
+h3{
+  font-size: 2.5;
+  margin-bottom: 20px;
+}
+
+#sickness{
+  color: #8a0303;
+  font-size: 8rem;
+  font-family: 'Fredericka the Great', cursive;
+}
+
+#jumbotron{
+  background-color: white;
+  height: 250px;
+}
+
+body{
+  background-color: #f6f6f6;
+}
+
+img{
+  height: 180px;
+  width: auto;
+  position: absolute;
+  top: 70px;
+}
+
+.btn{
+  background-color: #8a0303;
+}
+
+#searchDiv{
+  margin: 30px;
+}
+
+#searchDiv2{
+  margin: 30px;
+}
+
+.buttonParent{
+text-align: center;
+}
+
+.buttonChild{
+  margin-left: auto;
+}
+
+#button{
+  padding: 20px;
+  border-radius: 30px;
+}
+
+.outputDiv{
+  margin-top: 30px;
+  text-align: center;
+}
